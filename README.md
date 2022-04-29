@@ -1,2 +1,2 @@
 # Aulas_JS
-Repositorio para guaradar anotações e códigos feitos durante minhas aulas de JS,TS e etc
+Repositorio para guaradar anotações,códigos e exercícios feitos durante minhas aulas de JS.
