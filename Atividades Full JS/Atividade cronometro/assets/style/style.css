@@ -1,0 +1,35 @@
+:root{
+    --primary-color:rgb(17,86,102);
+    --primary-color-darker:rgb(9,48,56);
+}
+
+*{
+    box-sizing: border-box;
+    outline: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary-color);
+}
+
+.container{
+    max-width: 640px;
+    margin: 300px auto;
+    background-color: #fff;
+    padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+    border-radius:10px;
+}
+
+.cronometro{
+    font-size: 3em;
+}
+
+.container button:hover{
+    background-color: rgb(38, 81, 90);
+    cursor: pointer;
+}
